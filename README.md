@@ -10,7 +10,7 @@ Briefly describe the purpose and functionality of your Laravel project.
 
 Make sure you have the following installed on your local machine:
 
-- PHP (version x.x)
+- PHP (version 8.1)
 - Composer
 - Node.js and NPM
 - MySQL or any other database server
