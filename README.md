@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-# Laravel Project Name
+# Ostad Module 7
 
 ## Overview
 
@@ -21,13 +21,13 @@ Make sure you have the following installed on your local machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-laravel-project.git
+    git clone https://github.com/Shraban-7/ostad_laravel_module_7.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-laravel-project
+    cd ostad_laravel_module_7
     ```
 
 3. Install PHP dependencies:
